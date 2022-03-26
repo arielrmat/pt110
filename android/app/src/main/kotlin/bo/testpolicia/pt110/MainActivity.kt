@@ -1,4 +1,4 @@
-package bo.policiaupds.pt110.pt110
+package bo.testpolicia.pt110
 
 import io.flutter.embedding.android.FlutterActivity
 

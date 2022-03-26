@@ -1,5 +1,6 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="bo.policiaupds.pt110.pt110">
+    package="bo.testpolicia.pt110">
+    <uses-permission android:name="android.permission.INTERNET"/>
    <application
         android:label="pt110"
         android:name="${applicationName}"

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "642521766271",
+    "project_id": "pt110-21900",
+    "storage_bucket": "pt110-21900.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:642521766271:android:3f8c6c597ea49dc083e24a",
+        "android_client_info": {
+          "package_name": "bo.testpolicia.pt110"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "642521766271-pgjo0blmb6aib7bq2vshr9esffi07an6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTZZjGXKpu0xZiL6A31aZI_M-X3e1IS40"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "642521766271-pgjo0blmb6aib7bq2vshr9esffi07an6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
